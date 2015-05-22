@@ -8,7 +8,7 @@ module 623zz () {
 			cylinder (r=9, h=1);
 		}
 		translate ([0,0,2.5]) cylinder (r=5.1, h=5);
-		cylinder (r=3.5, h=5);
+		cylinder (r=4, h=5);
 	}
 }
 
